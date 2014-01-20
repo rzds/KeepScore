@@ -1,7 +1,7 @@
-This is just an add-on for KeepScore.  You must have the original app installed.
+Acesta este un add-on pentru KeepScore.  Trebuie sa ai aplicatia originala instalata.
 
-All this app does is add a special message to the "About" section of KeepScore, and give you a warm, fuzzy feeling in your chest.
+Tot ceea ce face aceasta aplicatie este sa adauge un mesaj special in sectiunea "Despre" a aplicatiei KeepScore, si sa iti transmita un sentiment cald, nemaipomenit in piept.
 
-Thank you for donating!  You can also chip in using PayPal:
+Multumesc pentru donatii!  De asemenea, poti contribui folosind PayPal:
 
 http://nolanlawson.com/donate/
