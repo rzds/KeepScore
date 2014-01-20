@@ -1,5 +1,5 @@
-KeepScore - Score Keeper
-User-friendly score keeper for Android
+KeepScore - Tine Minte Scorul
+Aplicatie usor de utilizat pentru Android
 
 Need to keep score for a game? Throw away the pen and paper!
 
