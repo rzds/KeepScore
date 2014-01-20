@@ -1,15 +1,15 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 
-<center><b><font size="+1">Version %1$s %2$s</font></b></center>
+<center><b><font size="+1">Versiunea %1$s %2$s</font></b></center>
 
 %3$s
 
-<p/>KeepScore is a free and open-source score-keeping app for Android.
-Feel free to file bugs or write your own branches on GitHub!
+<p/>KeepScore este o aplicatie de tinut scorul, gratuita si open-source, pentru Android.
+Nu va jenati sa documentati eventualele buguri sau sa scrieti propriile versiuni pe Github!
 <center>
-<p/><a href="http://nolanlawson.com/apps/#keepscore" >Home page</a>
-<p/><a href="https://github.com/nolanlawson/KeepScore" >GitHub page</a>
-<p/><a href="http://play.google.com/store/apps/details?id=com.nolanlawson.keepscore.donate" >Donate</a>
+<p/><a href="http://nolanlawson.com/apps/#keepscore" >Pagina aplicatiei</a>
+<p/><a href="https://github.com/nolanlawson/KeepScore" >Pagina GitHub</a>
+<p/><a href="http://play.google.com/store/apps/details?id=com.nolanlawson.keepscore.donate" >Doneaza</a>
 
 </center>
 
@@ -17,5 +17,5 @@ Feel free to file bugs or write your own branches on GitHub!
 
 <p/><center><b>Credits</b></center>
 
-<p/>Developed by <a href="mailto:nolan@nolanlawson.com" >Nolan Lawson</a>.
-See all my apps <a href='market://search?q=pub:"Nolan Lawson"' >here</a>.
+<p/>Realizata de <a href="mailto:nolan@nolanlawson.com" >Nolan Lawson</a>.
+Vezi si celelalte aplicatii ale mele <a href='market://search?q=pub:"Nolan Lawson"' >aici</a>.
