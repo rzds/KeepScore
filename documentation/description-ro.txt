@@ -3,29 +3,29 @@ Aplicatie usor de utilizat pentru Android
 
 Trebuie sa tii scorul? Arunca pixul si hartia!
 
-KeepScore este o aplicatie pentru scor gratuita si open-source care poate fi folosita pentru orice joc bazat pe puncte.I'm a board gamer, so I wrote it to help me and my friends when we play games together.
+KeepScore este o aplicatie pentru scor gratuita si open-source care poate fi folosita pentru orice joc bazat pe puncte.
 
 Features:
 
 - Salveaza scorul automat
 
-- Shows a complete scoring history of every game
+- Arata istoricul scorului pentru fiecare joc
 
-- History automatically updates after 10 seconds (configurable)
+- Istoricul se salveaza automat dupa 10 secunde (configurabil)
 
 - Mentine ecranul deschis
 
 - Permite adaugarea a 2-8 jucatori
 
-- Saves multiple games
+- Salveaza jocuri multiple
 
 - Long-press on a button to add/subtract different values
 
 - Configure the add/subtract buttons
 
-- Add/edit/remove players during play
+- Adauga/editeaza/sterge jucatori in timpul jocului
 
-- Backup/restore to SD card
+- Backup/restore pe cardul SD
 
 Enjoy!
 
